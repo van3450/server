@@ -1,0 +1,10 @@
+mongod --dbpath D:\MongoDB\Server\4.0\data
+htop
+systemd
+systemctl
+
+mongod & 	//запуск в фоне
+./server &	//запуск в фоне
+
+Systemd
+./Executable > /var/log/....

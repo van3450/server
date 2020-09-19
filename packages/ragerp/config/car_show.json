@@ -1,0 +1,303 @@
+{
+    "bmx": {
+        "name": "BMX",
+        "price": 200,
+        "stat": [26, 19, 50, 28, 4]
+    },
+    "faggio": {
+        "name": "Faggio",
+        "price": 700,
+        "stat": [48, 25, 13, 48, 9]
+    },
+    "glendale": {
+        "name": "Glendale",
+        "price": 2100,
+        "stat": [78, 58, 21, 62, 13]
+    },
+    "emperor": {
+        "name": "Emperor",
+        "price": 2900,
+        "stat": [64, 35, 20, 57, 13]
+    },
+    "ingot": {
+        "name": "Ingot",
+        "price": 3200,
+        "stat": [67, 35, 20, 59, 13]
+    },
+    "hermes": {
+        "name": "Hermes",
+        "price": 4100,
+        "stat": [73, 25, 71, 71, 10]
+    },
+    "regina": {
+        "name": "Regina",
+        "price": 4400,
+        "stat": [64, 35, 20, 57, 13]
+    },
+    "virgo3": {
+        "name": "Virgo",
+        "price": 4500,
+        "stat": [75, 70, 26, 77, 10]
+    },
+    "slamvan": {
+        "name": "Slamvan",
+        "price": 4700,
+        "stat": [72, 62, 20, 50, 10]
+    },   
+    "chino": {
+        "name": "Chino",
+        "price": 4900,
+        "stat": [75, 70, 26, 68, 10]
+    },
+    "sanchez2": {
+        "name": "Sanchez",
+        "price": 6200,
+        "stat": [63, 70, 36, 65, 9]
+    },
+    "blade": {
+        "name": "Blade", 
+        "price": 6700,
+        "stat": [77, 81, 26, 67, 10]
+    },
+    "buccaneer": {
+        "name": "Buccaneer",
+        "price": 7900,
+        "stat": [78, 70, 26, 65, 10]
+    },
+    "moonbeam": {
+        "name": "Moonbeam",
+        "price": 9900,
+        "stat": [63, 55, 15, 62, 13]
+    },
+    "asea": {
+        "name": "Asea",
+        "price": 10200,
+        "stat": [77, 55, 15, 62, 13]
+    },
+    "primo": {
+        "name": "Primo",
+        "price": 10900,
+        "stat": [75, 50, 30, 71, 13]
+    },
+    "premier": {
+        "name": "Premier",
+        "price": 11400,
+        "stat": [78, 50, 20, 64, 13]
+    },
+    "stratum": {
+        "name": "Stratum",
+        "price": 12900,
+        "stat": [72, 52, 20, 66, 13]
+    },
+    "burrito": {
+        "name": "Burrito",
+        "price": 13900,
+        "stat": [75, 40, 20, 60, 20]
+    },
+    "stanier": {
+        "name": "Stanier",
+        "price": 14200,
+        "stat": [75, 50, 29, 74, 13]
+    },
+    "speedo": {
+        "name": "Speedo",
+        "price": 14800,
+        "stat": [69, 45, 20, 54, 20]
+    },
+    "brioso": {
+        "name": "Brioso",
+        "price": 15600,
+        "stat": [72, 70, 20, 60, 2]
+    },
+    "habanero": {
+        "name": "Habanero",
+        "price": 16500,
+        "stat": [75, 43, 10, 63, 18]
+    },
+    "pcj": {
+        "name": "PCJ-600",
+        "price": 18900,
+        "stat": [69, 65, 43, 62, 9]
+    },
+    "landstalker": {
+        "name": "Landstalker",
+        "price": 19000,
+        "stat": [72, 45, 26, 63, 18]
+    },
+    "fcr": {
+        "name": "FCR-1000",
+        "price": 19700,
+        "stat": [75, 76, 40, 63, 9]
+    },
+    "rancherxl": {
+        "name": "Rancher XL",
+        "price": 20400,
+        "stat": [75, 76, 40, 63, 11]
+    },
+    "baller": {
+        "name": "Baller",
+        "price": 20500,
+        "stat": [75, 76, 40, 63, 18]
+    },
+    "daemon": {
+        "name": "Daemon",
+        "price": 21500,
+        "stat": [72, 65, 20, 56, 9]
+    },
+    "voodoo": {
+        "name": "Voodoo",
+        "price": 22000,
+        "stat": [75, 42, 10, 56, 10]
+    },
+    "huntley": {
+        "name": "Huntley",
+        "price": 28000,
+        "stat": [72, 66, 18, 63, 18]
+    },
+    "blista2": {
+        "name": "Blista Compact",
+        "price": 30100,
+        "stat": [70, 55, 20, 62, 15]
+    },
+    "blista": {
+        "name": "Blista",
+        "price": 30500,
+        "stat": [72, 57, 20, 62, 2]
+    },
+    "sentinel": {
+        "name": "Sentinel",
+        "price": 32200,
+        "stat": [76, 52, 30, 74, 3]
+    },
+    "elegy": {
+        "name": "Elegy Retro",
+        "price": 33500,
+        "stat": [76, 80, 20, 80, 15]
+    },
+    "elegy2": {
+        "name": "Elegy RH8",
+        "price": 38500,
+        "stat": [82, 83, 17, 82, 15]
+    },
+    "rhapsody": {
+        "name": "Rhapsody",
+        "price": 40000,
+        "stat": [71, 58, 20, 62, 2]
+    },
+    "feltzer2": {
+        "name": "Feltzer",
+        "price": 42000,
+        "stat": [82, 85, 20, 80, 15]
+    },
+    "cavalcade": {
+        "name": "Cavalcade",
+        "price": 45500,
+        "stat": [75, 50, 20, 60, 18]
+    },
+    "akuma": {
+        "name": "Akuma",
+        "price": 48000,
+        "stat": [77, 100, 40, 65, 9]
+    },
+    "oracle": {
+        "name": "Oracle",
+        "price": 49000,
+        "stat": [80, 67, 29, 68, 3]
+    },
+    "kuruma": {
+        "name": "Kuruma",
+        "price": 61000,
+        "stat": [76, 72, 35, 60, 15]
+    },
+    "sultan": {
+        "name": "Sultan",
+        "price": 64500,
+        "stat": [78, 65, 13, 71, 15]
+    },
+    "sultanrs": {
+        "name": "Sultan RS",
+        "price": 72500,
+        "stat": [85, 65, 13, 71, 15]
+    },
+    "buffalo": {
+        "name": "Buffalo",
+        "price": 75000,
+        "stat": [78, 68, 30, 74, 15]
+    },
+    "stinger": {
+        "name": "Stinger",
+        "price": 82500,
+        "stat": [78, 65, 20, 65, 16]
+    },
+    "hakuchou": {
+        "name": "Hakuchou",
+        "price": 106000,
+        "stat": [82, 79, 47, 70, 9]
+    },
+    "f620": {
+        "name": "F620",
+        "price": 131500,
+        "stat": [77, 59, 29, 75, 3]
+    },           
+    "banshee": {
+        "name": "Banshee",
+        "price": 132000,
+        "stat": [79, 85, 33, 73, 15]
+    },
+    "comet2": {
+        "name": "Comet",
+        "price": 135000,
+        "stat": [81, 85, 26, 78, 15]
+    },
+    "patriot": {
+        "name": "Patriot",
+        "price": 145000,
+        "stat": [69, 50, 10, 51, 18]
+    },
+    "surano": {
+        "name": "Surano",
+        "price": 155000,
+        "stat": [83, 85, 33, 77, 15]
+    },
+    "cheetah": {
+        "name": "Cheetah",
+        "price": 182000,
+        "stat": [82, 79, 26, 80, 17]
+    },
+    "dubsta": {
+        "name": "Dubsta",
+        "price": 186500,
+        "stat": [75, 50, 27, 65, 18]
+    },
+    "dubsta2": {
+        "name": "Dubsta II",
+        "price": 188500,
+        "stat": [75, 50, 27, 65, 18]
+    }, 
+    "bullet": {
+        "name": "Bullet",
+        "price": 191000,
+        "stat": [81, 82, 26, 77, 17]
+    }, 
+    "turismor": {
+        "name": "Turismo",
+        "price": 270000,
+        "stat": [83, 88, 40, 80, 17]
+    },
+    "infernus": {
+        "name": "Infernus",
+        "price": 590000,
+        "stat": [80, 85, 16, 80, 17]
+    },
+    "entityxf": {
+        "name": "Entity XF",
+        "price": 790000,
+        "stat": [83, 82, 29, 83, 17]
+    },
+    "adder": {
+        "name": "Adder",
+        "price": 990000,
+        "stat": [85, 79, 33, 75, 17]
+    }                                     
+}
+

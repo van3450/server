@@ -1,0 +1,16 @@
+"use strict";
+require('./config');
+require('./players');
+require('./commands');
+require('./events');
+require('./charcreator');
+require('./db');
+require('./phone');
+require('./voicechat');
+require('./chat');
+require('./menu');
+require('./static-attachments');
+require('./factions');
+require('./jobs');
+require('./vehicle-system');
+console.log("OK!");
